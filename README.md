@@ -174,9 +174,7 @@ Sau lộ trình này, bạn sẽ đạt được 4 năng lực:
 
 ---
 
-# Cách tôi sẽ dạy bạn
-
-Mỗi bài sẽ có cấu trúc như sau:
+# Mỗi bài sẽ có cấu trúc như sau:
 
 1. Khái niệm cốt lõi
 2. Trực giác đời thường
