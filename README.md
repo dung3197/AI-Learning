@@ -1,5 +1,3 @@
----
-
 # Lộ trình học AI cho người mới, có định hướng Data Engineer
 
 ## Mục tiêu cuối khóa
