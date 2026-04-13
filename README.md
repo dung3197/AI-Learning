@@ -1,9 +1,3 @@
-Tuyệt. Tôi sẽ dạy bạn theo đúng tinh thần **“học từ số 0 nhưng phải hiểu bản chất”**.
-
-Tôi không nên nhồi toàn bộ AI vào một câu trả lời duy nhất, vì như vậy bạn sẽ rất khó hấp thụ. Cách tốt hơn là tôi xây cho bạn một **giáo trình có lộ trình**, rồi bắt đầu dạy **Bài 1** thật kỹ ngay bây giờ. Sau mỗi bài, tôi sẽ dừng lại để bạn hỏi những chỗ chưa rõ, rồi mới sang bài tiếp theo.
-
-Phần ứng dụng trong Big Data và nghề Data Engineer tôi cũng sẽ gắn với các hệ thống thực tế như **Kafka, Spark Structured Streaming, Spark MLlib, Ray Data**, vì đây đều là các nền tảng chính thống đang được dùng để xử lý dữ liệu lớn, streaming, ML và AI workloads ở quy mô lớn. Kafka là nền tảng event streaming phân tán; Spark có Structured Streaming và MLlib; Ray Data được xây cho AI workloads; còn Hugging Face cung cấp tài liệu chuẩn về các tác vụ NLP/LLM như summarization, question answering, sequence classification. ([kafka.apache.org][1])
-
 ---
 
 # Lộ trình học AI cho người mới, có định hướng Data Engineer
